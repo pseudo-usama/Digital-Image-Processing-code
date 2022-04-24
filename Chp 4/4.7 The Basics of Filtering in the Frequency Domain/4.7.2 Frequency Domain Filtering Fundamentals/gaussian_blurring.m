@@ -1,0 +1,5 @@
+img = imread('rects.tif');
+
+
+
+
